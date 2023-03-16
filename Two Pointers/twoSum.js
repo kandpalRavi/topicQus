@@ -2,7 +2,8 @@
 
 //this method will not work on unsorted manner
 
-// ~
+// 
+
 
  let array=[2,7,8,13,18];
 // let array=[-4,-1,6,4,8];
